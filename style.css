@@ -1,0 +1,22 @@
+/* @media (max-width: 400px) {
+    #service{
+        padding: 0px!important;
+    }
+    #serviceone{
+        padding: 1rem!important;
+    }
+} */
+.serviceoo{
+    padding: 3rem;
+}
+@media (max-width: 500px) {
+    #service{
+        padding: 0px!important;
+    }
+    #serviceone{
+        padding: 1rem!important;
+    }
+    .serviceoo{
+        padding: 1rem!important;
+    }
+}
