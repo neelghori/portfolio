@@ -1,3 +1,3 @@
 # portfolio
 
-https://neelghori.github.io/portfolio/
+[Ghori Neel](https://neelghori.github.io/portfolio/)
